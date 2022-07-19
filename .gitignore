@@ -1,0 +1,7 @@
+#  ici se trouve tous ce qui n'ont poas besoin d'être sur github , des choses secrete 
+ 
+ /node_modules
+
+ .DS_Store
+
+ .env
